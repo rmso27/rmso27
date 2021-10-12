@@ -1,6 +1,6 @@
 ### Hi there, I'm Ruben 👋
 
-### I'm an aspiring, self-taught, Web Developer living in Oporto, Portugal :portugal_flag:
+### I'm an aspiring, self-taught, Web Developer living in Oporto, Portugal :portugal:
 
 <!--
 **rmso27/rmso27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
